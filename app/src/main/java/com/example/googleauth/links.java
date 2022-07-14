@@ -7,5 +7,7 @@ public class links {
     //sha1 url https://console.cloud.google.com/apis/credentials?authuser=0&project=auth-ece0b
 
 
+    //instructions to open sha
+    //https://www.devopsschool.com/blog/how-to-get-sha-1-key-in-android-studio-for-firebase/
 
 }
